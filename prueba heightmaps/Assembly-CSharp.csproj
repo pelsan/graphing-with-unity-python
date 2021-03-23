@@ -117,31 +117,31 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -327,7 +327,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/curso-unity-2020/curso-unity-2020/prueba heightmaps/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/Users/pelsa/Documents/Proyectos/Unity/graphing-with-unity-python/prueba heightmaps/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.1.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
