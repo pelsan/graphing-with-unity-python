@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c71c99caa6a432440bdb65793459ad51
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePreFab: {fileID: 2218214824628953609, guid: 0e97b6fdee5095e4baecc037d1a1e944, type: 3}
+  - terrenoPreFab: {fileID: 4977448047971007839, guid: 62c471fb8bac9034ca496a2b74338352, type: 3}
+  - terreno: {fileID: 2913962065384425051, guid: 62c471fb8bac9034ca496a2b74338352, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
