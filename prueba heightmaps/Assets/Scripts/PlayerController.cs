@@ -163,10 +163,16 @@ public class PlayerController : MonoBehaviour
         Vector3 csvVector;
         int counter = 0;
         string line;
-        System.IO.StreamReader file =
-            //new System.IO.StreamReader(@"d:\grafico.csv");
-            //new System.IO.StreamReader(@"C:\Users\pelsa\TEMPOS\XYZESTADOSTOTALES.csv");
-            new System.IO.StreamReader(@"C:\Users\pelsa\TEMPOS\XYZEDADTOTALES.csv");
+        //string spath = "C:\Users\pelsa\Documents\Proyectos\Unity\graphing-with-unity-python\python\";
+        //string spath = 'C:\Users\pelsa\Documents\Proyectos\Unity\graphing-with-unity-python\python\';
+        string spath = "C:\\Users\\pelsa\\Documents\\Proyectos\\Unity\\graphing-with-unity-python\\python\\";
+        string sfile = "XYZEDADTOTALES.csv";
+        string cargar = spath + sfile;
+        System.IO.StreamReader file = 
+        new System.IO.StreamReader(@cargar);
+        //new System.IO.StreamReader(@"d:\grafico.csv");
+        //new System.IO.StreamReader(@"C:\Users\pelsa\TEMPOS\XYZESTADOSTOTALES.csv");
+
 
         while ((line = file.ReadLine()) != null)
         {
